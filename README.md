@@ -6,4 +6,4 @@
 
 ## C Resources
 
-[Beej's Guide to C Programming](https://beej.us/guide/bgc/}
+[Beej's Guide to C Programming](https://beej.us/guide/bgc/)
